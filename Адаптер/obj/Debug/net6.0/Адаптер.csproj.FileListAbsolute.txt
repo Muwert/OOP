@@ -1,0 +1,30 @@
+C:\Users\kseni\Desktop\Университет\ООП\Адаптер\bin\Debug\net6.0\Адаптер.exe
+C:\Users\kseni\Desktop\Университет\ООП\Адаптер\bin\Debug\net6.0\Адаптер.deps.json
+C:\Users\kseni\Desktop\Университет\ООП\Адаптер\bin\Debug\net6.0\Адаптер.runtimeconfig.json
+C:\Users\kseni\Desktop\Университет\ООП\Адаптер\bin\Debug\net6.0\Адаптер.dll
+C:\Users\kseni\Desktop\Университет\ООП\Адаптер\bin\Debug\net6.0\Адаптер.pdb
+C:\Users\kseni\Desktop\Университет\ООП\Адаптер\obj\Debug\net6.0\Адаптер.csproj.AssemblyReference.cache
+C:\Users\kseni\Desktop\Университет\ООП\Адаптер\obj\Debug\net6.0\Адаптер.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kseni\Desktop\Университет\ООП\Адаптер\obj\Debug\net6.0\Адаптер.AssemblyInfoInputs.cache
+C:\Users\kseni\Desktop\Университет\ООП\Адаптер\obj\Debug\net6.0\Адаптер.AssemblyInfo.cs
+C:\Users\kseni\Desktop\Университет\ООП\Адаптер\obj\Debug\net6.0\Адаптер.csproj.CoreCompileInputs.cache
+C:\Users\kseni\Desktop\Университет\ООП\Адаптер\obj\Debug\net6.0\Адаптер.dll
+C:\Users\kseni\Desktop\Университет\ООП\Адаптер\obj\Debug\net6.0\refint\Адаптер.dll
+C:\Users\kseni\Desktop\Университет\ООП\Адаптер\obj\Debug\net6.0\Адаптер.pdb
+C:\Users\kseni\Desktop\Университет\ООП\Адаптер\obj\Debug\net6.0\Адаптер.genruntimeconfig.cache
+C:\Users\kseni\Desktop\Университет\ООП\Адаптер\obj\Debug\net6.0\ref\Адаптер.dll
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Адаптер\bin\Debug\net6.0\Адаптер.exe
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Адаптер\bin\Debug\net6.0\Адаптер.deps.json
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Адаптер\bin\Debug\net6.0\Адаптер.runtimeconfig.json
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Адаптер\bin\Debug\net6.0\Адаптер.dll
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Адаптер\bin\Debug\net6.0\Адаптер.pdb
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Адаптер\obj\Debug\net6.0\Адаптер.csproj.AssemblyReference.cache
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Адаптер\obj\Debug\net6.0\Адаптер.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Адаптер\obj\Debug\net6.0\Адаптер.AssemblyInfoInputs.cache
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Адаптер\obj\Debug\net6.0\Адаптер.AssemblyInfo.cs
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Адаптер\obj\Debug\net6.0\Адаптер.csproj.CoreCompileInputs.cache
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Адаптер\obj\Debug\net6.0\Адаптер.dll
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Адаптер\obj\Debug\net6.0\refint\Адаптер.dll
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Адаптер\obj\Debug\net6.0\Адаптер.pdb
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Адаптер\obj\Debug\net6.0\Адаптер.genruntimeconfig.cache
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Адаптер\obj\Debug\net6.0\ref\Адаптер.dll
