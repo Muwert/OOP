@@ -4,7 +4,7 @@
 #include <algorithm>
 #include <vector>
 #include <ranges>
-#include "FORWARD_LIST.h"
+#include "ForwardList.h"
 
 int main()
 {
@@ -85,14 +85,14 @@ int main()
 
 	if (counselor1 > counselor2)
 	{
-		std::cout << counselor1.name << " ñòàðøèé âîæàòûé, îïûò " << counselor1.experience << " ëåò" << std::endl;
+		std::cout << counselor1.name << " Ã±Ã²Ã Ã°Ã¸Ã¨Ã© Ã¢Ã®Ã¦Ã Ã²Ã»Ã©, Ã®Ã¯Ã»Ã² " << counselor1.experience << " Ã«Ã¥Ã²" << std::endl;
 	}
 	else if (counselor2 > counselor1)
 	{
-		std::cout << counselor2.name << " ñòàðøèé âîæàòûé, îïûò " << counselor2.experience << " ëåò" << std::endl;
+		std::cout << counselor2.name << " Ã±Ã²Ã Ã°Ã¸Ã¨Ã© Ã¢Ã®Ã¦Ã Ã²Ã»Ã©, Ã®Ã¯Ã»Ã² " << counselor2.experience << " Ã«Ã¥Ã²" << std::endl;
 	}
 	else
-		std::cout << "Îäèíàêîâûé îïûò ðàáîòû" << std::endl;
+		std::cout << "ÃŽÃ¤Ã¨Ã­Ã ÃªÃ®Ã¢Ã»Ã© Ã®Ã¯Ã»Ã² Ã°Ã Ã¡Ã®Ã²Ã»" << std::endl;
 	std::cout << "------------------------------------------" << std::endl;
 
 	/**std::cout << counselor1.name << " counselor in " << Group(counselor1) << " squad" << std::endl;
@@ -100,10 +100,10 @@ int main()
 	std::cout << "------------------------------------------" << std::endl;*/
 
 	//Decorator
-	ListPaper* List = new LineDecorator(new ÑircleDecorator(new ListPaper_with_text(children1.SquadName)));
+	ListPaper* List = new LineDecorator(new Ã‘ircleDecorator(new ListPaper_with_text(children1.SquadName)));
 	List->draw();
 
-	ListPaper* List1 = new LineDecorator(new ÑircleDecorator(new ListPaper_with_text(children2.SquadName)));
+	ListPaper* List1 = new LineDecorator(new Ã‘ircleDecorator(new ListPaper_with_text(children2.SquadName)));
 	List1->draw();
 	std::cout << "------------------------------------------" << std::endl;
 
