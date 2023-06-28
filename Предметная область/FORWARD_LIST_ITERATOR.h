@@ -2,7 +2,6 @@
 #define FORWARD_LIST_CONTAINER_FORWARD_LIST_ITERATOR_H
 
 #include <iterator>
-#include <cassert>
 #include "FORWARD_LIST_NODE.h"
 #pragma warning(disable : 4996)
 
