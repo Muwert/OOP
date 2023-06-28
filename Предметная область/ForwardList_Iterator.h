@@ -1,8 +1,5 @@
-#ifndef FORWARD_LIST_CONTAINER_FORWARD_LIST_ITERATOR_H
-#define FORWARD_LIST_CONTAINER_FORWARD_LIST_ITERATOR_H
-
 #include <iterator>
-#include "FORWARD_LIST_NODE.h"
+#include "ForwardList_Node.h"
 #pragma warning(disable : 4996)
 
 namespace Container {
