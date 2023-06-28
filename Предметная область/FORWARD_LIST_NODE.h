@@ -1,7 +1,6 @@
 #ifndef FORWARD_LIST_CONTAINER_FORWARD_LIST_NODE_H
 #define FORWARD_LIST_CONTAINER_FORWARD_LIST_NODE_H
 
-# include<memory>
 namespace Container
 {
     template <typename T> class forward_list; 
