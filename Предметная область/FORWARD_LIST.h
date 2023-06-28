@@ -2,7 +2,6 @@
 #define FORWARD_LIST_CONTAINER_FORWARD_LIST_H
 
 #include "FORWARD_LIST_ITERATOR.h"
-#include <memory.h>
 #include <iostream>
 
 namespace Container
