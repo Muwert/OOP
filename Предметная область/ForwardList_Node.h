@@ -1,6 +1,3 @@
-#ifndef FORWARD_LIST_CONTAINER_FORWARD_LIST_NODE_H
-#define FORWARD_LIST_CONTAINER_FORWARD_LIST_NODE_H
-
 namespace Container
 {
     template <typename T> class forward_list; 
@@ -25,5 +22,3 @@ namespace Container
         ~forward_list_node() = default;
     };
 }
-
-#endif 
