@@ -1,7 +1,4 @@
-#ifndef FORWARD_LIST_CONTAINER_FORWARD_LIST_H
-#define FORWARD_LIST_CONTAINER_FORWARD_LIST_H
-
-#include "FORWARD_LIST_ITERATOR.h"
+#include "ForwardList_Iterator.h"
 #include <iostream>
 
 namespace Container
