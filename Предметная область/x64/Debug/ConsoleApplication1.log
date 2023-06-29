@@ -1,0 +1,25 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (ConsoleApplication1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Проверка источников на наличие зависимостей модуля…
+  Предметная область.cpp
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Предметная область\ForwardList_Node.h(23,170): error C3861: pred: идентификатор не найден
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Предметная область\ForwardList_Node.h(25,6): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Container::forward_list_node<T>"
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Предметная область\ForwardList_Node.h(23,170): error C2065: pred: необъявленный идентификатор
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Предметная область\ForwardList_Iterator.h(25,27): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Предметная область\ForwardList_Iterator.h(77,6): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Container::forward_list_iterator<T>"
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Предметная область\ForwardList_Iterator.h(25,18): error C2365: Container::forward_list_iterator<T>::operator *: переопределение; предыдущим определением было "функция-член"
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Предметная область\ForwardList_Iterator.h(20,19): message : см. объявление "Container::forward_list_iterator<T>::operator *"
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Предметная область\ForwardList_Iterator.h(26,1): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Предметная область\ForwardList_Iterator.h(31,30): error C2143: синтаксическая ошибка: отсутствие ";" перед "++"
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Предметная область\ForwardList_Iterator.h(32,1): error C2334: непредвиденные лексемы перед "{"; пропуск вероятного тела функции
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Предметная область\ForwardList.h(42,38): warning C4138: "*/" найден вне комментария
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Предметная область\ForwardList.h(162,51): error C2061: синтаксическая ошибка: идентификатор "_node_pointert"
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Предметная область\ForwardList.h(166,6): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Container::forward_list<T>"
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Предметная область\ForwardList.h(36,34): error C2065: last: необъявленный идентификатор
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Предметная область\ForwardList.h(42,39): error C2760: синтаксическая ошибка: непредвиденный элемент "/". Ожидается "выражение"
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Предметная область\ForwardList.h(42,39): error C3878: синтаксическая ошибка: непредвиденный маркер "/" после "expression"
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Предметная область\ForwardList.h(42,39): message : пропущено восстановление ошибки: "/"
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Предметная область\ForwardList.h(43,9): error C2760: синтаксическая ошибка: непредвиденный элемент "}". Ожидается ";"
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Предметная область\ForwardList.h(95,29): error C3861: tail: идентификатор не найден
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Предметная область\ForwardList.h(95,29): error C2065: tail: необъявленный идентификатор
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Предметная область\ForwardList.h(164,61): error C3861: node_pointer: идентификатор не найден
+C:\Users\kseni\Desktop\Университет\ООП\4 семестр\Предметная область\ForwardList.h(164,61): error C2065: node_pointer: необъявленный идентификатор
